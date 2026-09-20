@@ -82,7 +82,9 @@ I am currently interested in opportunities related to:
 ## 📫 Connect With Me
 
 📧 **Email:** [gopalsharma639557@gmail.com](mailto:gopalsharma639557@gmail.com)
+
 📱 **Phone:** +91 6395275245
+
 💻 **GitHub:** [GopalSharma-Go](https://github.com/GopalSharma-Go)
 
 ---
